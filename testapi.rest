@@ -2,6 +2,6 @@ POST http://localhost:7000/openai/generateimage HTTP/1.1
 content-type: application/json
 
 {
-  "prompt" : "Last selfie on earth",
+  "prompt" : "a pig on pluto planet",
   "size": "large"
 }
